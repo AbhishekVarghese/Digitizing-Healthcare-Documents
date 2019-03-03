@@ -1,0 +1,13 @@
+.inp-search {
+  margin: 10px auto;
+  border-radius: 5px;
+  display: block;
+}
+.inp-id {
+  margin: 0px 10px;
+  border-radius: 5px;
+}
+#search-form {
+  width: 450px;
+  margin: 70px auto;
+}

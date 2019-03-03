@@ -1,0 +1,36 @@
+#upload-form {
+  margin: 70px auto;
+  width: 450px;
+}
+.upload-btn-wrapper {
+  position: relative;
+  display: inline-block;
+}
+.login-legend {
+  margin: 20px;
+  width: 300px;
+}
+.my-fieldset {
+  border: 1px solid gray;
+  border-radius: 15px;
+  text-align: center;
+  padding-bottom: 20px;
+  background: white;
+}
+
+.btn-choose {
+  border-radius: 15px;
+}
+
+@media screen and (max-width: 800px){
+  h3 {
+    font-size: 28px;
+  }
+  #upload-form {
+    width: 360px;
+  }
+
+  #search-form {
+    width: 360px;
+  }
+}

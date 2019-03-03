@@ -1,0 +1,72 @@
+.logout {
+  margin: 0px 10px;
+  background: white;
+  color: #0077b5;
+  font-weight: bold;
+}
+.user {
+  margin: 0px 5px;
+}
+#userInfo {
+  float: right;
+  color: white;
+  font-weight: bold;
+}
+#top {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  display: block;
+  width: 100%;
+  z-index: 99;
+  background: #0077b5;
+  padding: 6px;
+}
+
+.btn-long {
+  width: 170px;
+}
+#h {
+  height: 100vh;
+  background: url(imge.jpg);
+  background-size: cover;
+}
+#recs {
+  margin-left: 10px;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	display: inline-block;
+	margin: 6px;
+	cursor: pointer;
+	padding: 0px 5px;
+	border: 1px solid;
+}
+
+
+.hidden{
+	display: none;
+}
+
+#userRecs {
+	margin: 70px auto;
+	margin-bottom: 10px;
+}
+
+.ncenter {
+	margin-left: 25vw;
+}
+#vtable td{
+	border: 1px solid;
+}
+
+#green {
+	color: green;
+	width: 450px;
+	text-align: center;
+}
+.show {
+	display: inline-block;
+}

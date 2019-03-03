@@ -1,0 +1,19 @@
+.logout {
+  margin: 0px 10px;
+}
+.user {
+  margin: 0px 5px;
+}
+#top {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  height: 150px;
+  display: inline-block;
+}
+#home-div {
+  background: #f8f8ff;
+}
+.btn-long {
+  width: 170px;
+}
