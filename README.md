@@ -1,5 +1,24 @@
 # Digitizing-Healthcare-Documents
 
+Developed for the finals of Smart India Hackathon 2019.
+
+### Contributers (members of the team MohmAIa_200)
+
+* Abhishek Varghese
+* Gaurav Ganna
+* Himali Goel
+* Manika Khare
+* Raj Hansani Khoiwal
+* Shivam Kumar
+
+#### Technology Stack
+
+* MongoDb
+* React Native
+* Node.js
+* Python
+* Open Source - Google Tesseract OCR
+
 ### Steps to run the web application:
 
 1. Initialize MongoDB database by running the script *'database_script.js'* in mongo shell using the following command:  
